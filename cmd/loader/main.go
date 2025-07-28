@@ -53,4 +53,5 @@ func main() {
 	}
 
 	log.Println("EC2 pricing data loaded successfully.")
+	log.Println("Exiting")
 }
