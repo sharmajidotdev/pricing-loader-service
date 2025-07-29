@@ -1,11 +1,11 @@
 package main
 
 import (
+	"db-loader-service/internal/db"
+	"db-loader-service/internal/loader"
 	"fmt"
 	"log"
 	"os"
-	"pricing-loader-service/internal/db"
-	"pricing-loader-service/internal/loader"
 
 	"github.com/joho/godotenv"
 )
